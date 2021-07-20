@@ -6,4 +6,4 @@
 
 -> BMI can be used to screen for weight categories that may lead to health problems but it is not diagnostic of the body fatness or health of an individual.
 
-### Contributors : `Aditya` `Souvik`
+### Contributors : `Souvik Nayak` `Aditya Prasad Mishra`
