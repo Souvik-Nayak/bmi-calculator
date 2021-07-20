@@ -19,6 +19,3 @@ var r = w / ((h/100) * (h/100));
 document.getElementById("result").innerHTML = "BMI SCORE : " + r;
 cchange(r);
 }
-
-
-
